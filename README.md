@@ -1,6 +1,7 @@
 # 📰 Fake News Detection using Machine Learning
 
-![Fake News Banner](https://cdn-icons-png.flaticon.com/512/4359/4359963.png)
+> ⚠️ **Note:** This response is AI-generated (except images) for clarity and ease of explanation 😊  
+
 
 ## 📌 Project Overview
 This project focuses on detecting **fake vs. true news** using machine learning models.  
